@@ -1,4 +1,5 @@
 # SplatFace
 
-Official GibHub page of WACV 2025 paper (Oral) \n
-SplatFace: Gaussian Splat Face Reconstruction Leveraging an Optimizable Surface.
+Official GibHub page of WACV 2025 paper (Oral)
+
+[SplatFace: Gaussian Splat Face Reconstruction Leveraging an Optimizable Surface](https://arxiv.org/pdf/2403.18784)
